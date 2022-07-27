@@ -21,4 +21,4 @@ python3 -m pip install vxdb[cli]
 
 | Notebook | Description |
 | --- | --- | 
-| 
+| [0_Exploring_VXDB.ipynb](./0_Exploring_VXDB.ipynb) | Starter notebook for exploring [virus.exchange](https://virus.exchange), which is [VX Underground](https://www.vx-underground.org/)'s malware repository based on [mwdb.cert.pl](https://mwdb.cert.pl). |
